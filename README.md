@@ -38,6 +38,7 @@
 
 <!-- Notable Projects and Achievements Section -->
 <h2>Notable Projects & Achievements</h2>
+<a href="https://github.com/stars/victorcappa/lists/victor-cappa-ar">key AR projects</a> •
 
 ### Global Marketing Campaigns
 
