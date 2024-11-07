@@ -17,6 +17,17 @@
   An innovative AR developer with a rich background in theater and music, specializing in creating immersive experiences that captivate global audiences.
 </p>
 
+<h2>Tech Stack</h2>
+
+- **JS/TS + HTML5 + CSS**
+- **3D Web (Three.js, A-Frame, Canvas)**
+- **React**
+- **Unity**
+- **Augmented Reality (AR), SocialAR and WebAR Applications (mindAR, 8th Wall, Zappar)**
+- **Git**
+- **Zustand**
+- **Blender**
+
 <!-- Core Competencies Section -->
 <h2>Core Competencies</h2>
 
