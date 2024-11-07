@@ -2,6 +2,7 @@
 <h1 align="center">Victor Cappa</h1>
 <h3 align="center">AR Developer & Creative Technologist</h3>
 <p align="center">
+  <a href="https://github.com/stars/victorcappa/lists/victor-cappa-ar">key AR projects</a>
   <a href="mailto:victorcappa@imaginar.dev">Email</a> •
   <a href="https://www.linkedin.com/in/victor-cappa-50839788/">LinkedIn</a> •
   <a href="https://imaginar.dev">imaginAR (coming soon)</a>
@@ -68,22 +69,14 @@
 
 <p align="center">
   <!-- Video 1 -->
+  <h3>Marvel and Coca Cola</h3>
  <p>This was one of the most interesting and challenging projects I've ever worked on. I went into more details <a href="https://github.com/victorcappa/marvel-coke-epic/tree/main">here<a/> </p>
-   
-
 https://github.com/user-attachments/assets/c0a82bba-9077-4475-a7f3-701910d90d94
+   
+<h3>randomTunes</h3>
+ <p>Experimental project that got integrated into imaginAR later on. The idea was to give people the opportunity to create music with objects that have a physical relation to the environment</p>
 
-
-  <!-- Video 2 -->
-  <video width="300" controls style="margin: 10px;">
-    <source src="lego.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <!-- Video 3 -->
-  <video width="300" controls style="margin: 10px;">
-    <source src="random-tunes.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+https://github.com/user-attachments/assets/7dfbf1f6-6926-4d5e-b683-87acf1373beb
 </p>
 
 <!-- Call to Action Section -->
