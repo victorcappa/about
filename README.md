@@ -68,10 +68,12 @@
 
 <p align="center">
   <!-- Video 1 -->
-  <video width="300" controls style="margin: 10px;">
-    <source src="marvel.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+ <p>This was one of the most interesting and challenging projects I've ever worked on. I went into more details <a href="https://github.com/victorcappa/marvel-coke-epic/tree/main">here<a/> </p>
+   
+
+https://github.com/user-attachments/assets/c0a82bba-9077-4475-a7f3-701910d90d94
+
+
   <!-- Video 2 -->
   <video width="300" controls style="margin: 10px;">
     <source src="lego.mp4" type="video/mp4">
