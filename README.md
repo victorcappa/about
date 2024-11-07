@@ -2,10 +2,10 @@
 <h1 align="center">Victor Cappa</h1>
 <h3 align="center">AR Developer & Creative Technologist</h3>
 <p align="center">
-  <a href="https://github.com/stars/victorcappa/lists/victor-cappa-ar">key AR projects</a>
+  <a href="https://github.com/stars/victorcappa/lists/victor-cappa-ar">key AR projects</a> •
   <a href="mailto:victorcappa@imaginar.dev">Email</a> •
   <a href="https://www.linkedin.com/in/victor-cappa-50839788/">LinkedIn</a> •
-  <a href="https://imaginar.dev">imaginAR (coming soon)</a>
+  <a href="https://imaginar.dev">imaginAR (coming soon)</a> •
 </p>
 
 <p align="center">
@@ -70,8 +70,13 @@
 <p align="center">
   <!-- Video 1 -->
   <h3>Marvel and Coca Cola</h3>
- <p>This was one of the most interesting and challenging projects I've ever worked on. I went into more details <a href="https://github.com/victorcappa/marvel-coke-epic/tree/main">here<a/> </p>
-https://github.com/user-attachments/assets/c0a82bba-9077-4475-a7f3-701910d90d94
+ <p>This was one of the most interesting and challenging projects I've ever worked on. I went into more details <a href="https://github.com/victorcappa/marvel-coke-epic/tree/main">here<a/>
+
+
+https://github.com/user-attachments/assets/0aabdb81-d163-4cd0-b8c4-b21b04ba4db8
+
+
+ </p>
    
 <h3>randomTunes</h3>
  <p>Experimental project that got integrated into imaginAR later on. The idea was to give people the opportunity to create music with objects that have a physical relation to the environment</p>
