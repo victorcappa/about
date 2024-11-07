@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="victor.jpeg" alt="Victor Cappa" width="80" height="80">
+  <img src="victor.jpeg" alt="Victor Cappa" width="150" height="150">
 </p>
 
 <!-- Professional Summary -->
