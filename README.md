@@ -22,7 +22,7 @@
 - **JS/TS + HTML5 + CSS**
 - **3D Web (Three.js, A-Frame, Canvas)**
 - **React**
-- **Unity**
+- **Unity (C#, AR Foundation, Vuforia, Niantic SDK)**
 - **Augmented Reality (AR), SocialAR and WebAR Applications (mindAR, 8th Wall, Zappar)**
 - **Git**
 - **Zustand**
