@@ -54,6 +54,8 @@
 - Created interactive filters, AR interactive instalations and a scavennger hunt that reached North American and European audiences.
 
 <!-- imaginAR Section -->
+<img src="imaginar.png" alt="imaginar" width="526" height="249">
+
 <h2>imaginAR web App (In Development)</h2>
 
 **imaginAR** is an innovative platform aiming to revolutionize audience interaction through augmented reality and interactive technologies. By blending creative arts with webAR, imaginAR offers immersive experiences that enhance learning, engagement, and interaction.
