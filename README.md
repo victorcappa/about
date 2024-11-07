@@ -39,7 +39,7 @@
 - Created AR applications that allowed users to interact with Coca-Cola products in innovative ways.
 
 <!-- imaginAR Section -->
-<h2>imaginAR App (In Development)</h2>
+<h2>imaginAR web App (In Development)</h2>
 
 **imaginAR** is an innovative platform aiming to revolutionize audience interaction through augmented reality and interactive technologies. By blending creative arts with webAR, imaginAR offers immersive experiences that enhance learning, engagement, and interaction.
 
