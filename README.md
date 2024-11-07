@@ -42,13 +42,16 @@
 
 ### Global Marketing Campaigns
 
-#### Marvel
+#### Marvel and Disney
 
-- Developed immersive AR experiences for Marvel's global marketing campaigns.
+- Developed immersive AR experiences for Marvel's and Disney's global marketing campaigns.
 
 #### Coca-Cola
 
-- Created AR applications that allowed users to interact with Coca-Cola products in innovative ways.
+- Created AR applications that allowed users to interact with Coca-Cola products in innovative ways (Coca Cola, Sprite and Fanta).
+
+#### Just for Men, Estee Lauder, Staples
+- Created interactive filters, AR interactive instalations and a scavennger hunt that reached North American and European audiences.
 
 <!-- imaginAR Section -->
 <h2>imaginAR web App (In Development)</h2>
