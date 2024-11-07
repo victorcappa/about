@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="victor.png" alt="Victor Cappa" width="80" height="80">
+  <img src="victor.jpeg" alt="Victor Cappa" width="80" height="80">
 </p>
 
 <!-- Professional Summary -->
@@ -41,13 +41,23 @@
 <!-- imaginAR Section -->
 <h2>imaginAR App (In Development)</h2>
 
-**imaginAR** is an innovative platform aiming to revolutionize audience interaction through augmented reality and interactive technologies. By blending creative arts with cutting-edge AR, imaginAR offers immersive experiences that enhance learning, engagement, and interaction.
+**imaginAR** is an innovative platform aiming to revolutionize audience interaction through augmented reality and interactive technologies. By blending creative arts with webAR, imaginAR offers immersive experiences that enhance learning, engagement, and interaction.
 
 - **Educational Possibilities**: Transform traditional educational content into interactive AR experiences, making learning more engaging and effective.
 - **Cultural Preservation**: Bring historical monuments and cultural artifacts to life using AR, providing immersive educational tours.
 - **Real-Time Interaction**: Allow users to interact with AR content in real-time, offering personalized and dynamic experiences.
 - **Customizable Content**: Enable educators and creators to design custom AR experiences tailored to their audience.
 - **Integration with Live Events**: Enhance live performances and events by adding interactive AR layers, enriching audience participation.
+
+
+https://github.com/user-attachments/assets/49ae38e8-9fff-44f3-b809-ad4cdab7c433
+
+
+
+https://github.com/user-attachments/assets/b415f4a9-eb5b-4782-9e47-030f7adba860
+
+
+  
 
 <!-- Background Section -->
 <h2>Background in Theater and Music</h2>
