@@ -20,18 +20,26 @@
 <h2>Tech Stack</h2>
 
 - **Augmented Reality (AR), SocialAR and WebAR Applications (mindAR, 8th Wall, Zappar)**
-  
+<p>•-----------------------•</p>
+
 - **JS/TS + HTML5 + CSS**
 - **3D Web (Three.js, A-Frame, Canvas)**
 - **React**
 - **Zustand**
-  
+
+<p>•-----------------------•</p>
+
 - **Unity (C#, AR Foundation, Vuforia, Niantic SDK)**
 - **Blender**
 
+<p>•-----------------------•</p>
+
+
 - **Azure**
 - **PlayFab**
-  
+
+<p>•-----------------------•</p>
+
 - **Git**
 
 
