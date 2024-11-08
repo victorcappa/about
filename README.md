@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/b415f4a9-eb5b-4782-9e47-030f7adba860
 <p align="center">
   <!-- Video 1 -->
   <h3>Marvel and Coca Cola</h3>
- <p>This was one of the most interesting and challenging projects I've ever worked on, reaching close to 2 billion people around the world. I went into more details <a href="https://github.com/victorcappa/marvel-coke-epic/tree/main">here<a/>
+ <p>This was one of the most interesting and challenging projects I've ever worked on, reaching close to 2 billion impressions around the world. I went into more details <a href="https://github.com/victorcappa/marvel-coke-epic/tree/main">here<a/>
 
 
 https://github.com/user-attachments/assets/0aabdb81-d163-4cd0-b8c4-b21b04ba4db8
