@@ -14,7 +14,7 @@
 
 <!-- Professional Summary -->
 <p align="center">
-  An innovative AR developer with a rich background in theater and music, specializing in creating immersive experiences that captivate global audiences.
+  An innovative AR developer with a rich background in theater and music, specialized in creating immersive experiences that captivate global audiences.
 </p>
 
 <h2>Tech Stack</h2>
